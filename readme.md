@@ -9,12 +9,10 @@ Please download Python 3.6 or 3.7 (upcoming) from the Anaconda packaging (https:
 1. Download this repository (as a zip or git clone URL)
 
 ```sh
-git clone 
+git clone https://github.com/brandonserna/python-intro.git
 ```
 
-
-
-1. Change directory to this one
+2. Change directory to this one
 
 ```sh
 cd ~/Downloads/python-intro
@@ -30,4 +28,4 @@ jupyter notebook
 
 ## References
 
-Examples are based on the pycon 2017 tutorial from Trey Hunter (http://intro2017.trey.io/)
+Some examples are based on the pycon 2017 tutorial from Trey Hunter (http://intro2017.trey.io/)
